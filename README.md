@@ -52,7 +52,7 @@ Es ist besonders praktisch, wenn du viele Seiten hast und nicht jede Unterseite 
 
 ## Anpassung
 
-- **Menüname**: Standardmäßig auf `'Hauptmenü'` gesetzt.  
+- **Menüname**: Standardmäßig auf `'Main Menu'` gesetzt.  
   - Kann im Code angepasst werden, falls dein Menü anders heißt.  
 - **Oberpunkte**: Werden aus dem Textfeld im Menü-Editor übernommen.  
 - **Sicherheit**: Der Import wird über **Ajax + Nonce** abgesichert, sodass nur Administratoren ihn ausführen können.  
